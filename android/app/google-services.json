@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637575689347",
+    "project_id": "catalog-adb1d",
+    "storage_bucket": "catalog-adb1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637575689347:android:673f9f41fb0569dbfa97b6",
+        "android_client_info": {
+          "package_name": "com.catalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTe3Nn0MG0GCpeY1i5ZjjlQhByEXwXDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637575689347:android:fbf5d03ec27a6005fa97b6",
+        "android_client_info": {
+          "package_name": "com.catalogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTe3Nn0MG0GCpeY1i5ZjjlQhByEXwXDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
